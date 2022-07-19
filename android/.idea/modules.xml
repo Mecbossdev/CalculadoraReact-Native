@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projetoR.iml" filepath="$PROJECT_DIR$/.idea/modules/projetoR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/projetoR.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/projetoR.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/projetoR.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/projetoR.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/projetoR.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/projetoR.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/projetoR.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/projetoR.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1012444767/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1012444767/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1012444767/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1012444767/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1012444767/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1012444767/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+module Pods_projetoR_projetoRTests {
+  umbrella header "Pods-projetoR-projetoRTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
